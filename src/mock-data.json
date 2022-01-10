@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "fullName": "Aman Maurya",
+    "streetArea": "Shivraj-05, Sangam Path",
+    "cityPincode": "Chandrauta, 32814",
+    "country": "Nepal"
+  },
+  {
+    "id": 2,
+    "fullName": "kamal Pokharel",
+    "streetArea": "Rama Uni Area, Amrit Chowk",
+    "cityPincode": "Kanpur, 457861",
+    "country": "India"
+  },
+  {
+    "id": 3,
+    "fullName": "Siddharth Kafle",
+    "streetArea": "White Hart Lane, Bermen Street",
+    "cityPincode": "Munich, 28140",
+    "country": "Germany"
+  },
+  {
+    "id": 4,
+    "fullName": "Sanjeev Kandel",
+    "streetArea": "Gaida Chowk, Sky Hotel Area, Parsa",
+    "cityPincode": "Chitwan, 45814",
+    "country": "Nepal"
+  },
+  {
+    "id": 5,
+    "fullName": "Asin Pandey",
+    "streetArea": "Indira Chowk, Geetanjali Street",
+    "cityPincode": "New Delhi, 74654",
+    "country": "India"
+  },
+  {
+    "id": 6,
+    "fullName": "Bishop Chaudhary",
+    "streetArea": "House 12, Choudhary Street, Gangtok",
+    "cityPincode": "Silong, 12814",
+    "country": "India"
+  }
+]
